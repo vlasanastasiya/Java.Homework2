@@ -1,0 +1,10 @@
+дек. 13, 2022 6:50:34 PM task2 Functionsorted
+INFO: [8, 6, 6, 6, 5]
+дек. 13, 2022 6:50:34 PM task2 Functionsorted
+INFO: [8, 6, 6, 6, 5]
+дек. 13, 2022 6:50:34 PM task2 Functionsorted
+INFO: [8, 6, 6, 6, 5]
+дек. 13, 2022 6:50:34 PM task2 Functionsorted
+INFO: [8, 6, 6, 6, 5]
+дек. 13, 2022 6:50:34 PM task2 Functionsorted
+INFO: [8, 6, 6, 6, 5]
